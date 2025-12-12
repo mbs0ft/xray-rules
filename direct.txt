@@ -1,0 +1,8 @@
+domain:qiwi.com
+domain:*.qiwi.com
+domain:*.cloudfront.hls.ttvnw.net
+domain:cloudfront.hls.ttvnw.net
+ruleset:geoip-ru
+ruleset:geosite-category-ru
+domain:http://mskix.valvesoftware.com/
+domain:steamcontent.com

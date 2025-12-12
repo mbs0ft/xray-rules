@@ -1,0 +1,2 @@
+ruleset:geosite-vk
+ruleset:geosite-mailru
